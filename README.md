@@ -1,5 +1,9 @@
 # Page Observer
 
+### Setup
+
+You'll need an element matches polyfill like this one. https://developer.mozilla.org/en-US/docs/Web/API/Element/matches#Polyfill
+
 ### Usage
 
 ```js
