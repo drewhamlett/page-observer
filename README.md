@@ -2,7 +2,7 @@
 
 ### Setup
 
-You'll need an element matches polyfill like this one. https://developer.mozilla.org/en-US/docs/Web/API/Element/matches#Polyfill
+To support IE 11, and Edge, you'll need an element matches polyfill like this one. https://developer.mozilla.org/en-US/docs/Web/API/Element/matches#Polyfill 
 
 ### Usage
 
